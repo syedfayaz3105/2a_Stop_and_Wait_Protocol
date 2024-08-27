@@ -42,9 +42,11 @@ while True:
 
 ## OUTPUT
 ## client
-![image](https://github.com/user-attachments/assets/5920fdb7-4e04-41ee-854b-cd6c22bc1abe)
+![322496676-285f80ef-2e8d-41a6-b734-0fb4f35e819e](https://github.com/user-attachments/assets/9de554be-22c9-4a76-9b5f-db314a9c2ea6)
+
 ## server
-![image](https://github.com/user-attachments/assets/5920fdb7-4e04-41ee-854b-cd6c22bc1abe)
+
+![322496812-ca3a1f95-8af3-4ac3-9768-0609e6ece1a4](https://github.com/user-attachments/assets/3592b0f1-80b7-48a4-966a-2b7e682f85a3)
 
 
 ## RESULT
